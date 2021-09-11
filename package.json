@@ -1,6 +1,6 @@
 {
   "name": "test-github-page",
-  "homepage": "test-github-page/",
+  "homepage": "test/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
